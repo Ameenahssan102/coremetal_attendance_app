@@ -1,16 +1,29 @@
-# face_app
+# CoreMetal Attendance App
 
-A new Flutter project.
+## Overview
+CoreMetal Attendance is a powerful and efficient attendance management app designed for both iOS and Android platforms. Engineered using Flutter, this app streamlines the internal employee check-in and checkout processes, enhancing the overall efficiency of attendance management for over 500 employees.
 
-## Getting Started
+## Features
+- **Streamlined Check-in/Checkout:** Simplifies and automates the process of employee check-ins and check-outs, reducing manual effort.
+- **Secure AWS Facial Recognition:** Utilizes secure AWS facial recognition technology for accurate and reliable time tracking.
+- **Add Face of Employer:** Enables employees to add their faces by capturing three images to store the face structure and generate a Face ID for future attendance tracking.
+- **User-Friendly Interface:** Designed with a user-friendly interface to enhance the onboarding experience for employees.
+- **Data Security:** Ensures robust data security through AWS cloud infrastructure.
 
-This project is a starting point for a Flutter application.
+## Technology Stack
+- **Framework:** Flutter
+- **Backend:** AWS Cloud Services
+- **Facial Recognition:** AWS Rekognition
 
-A few resources to get you started if this is your first Flutter project:
+## Deployment
+The app has been deployed internally and is not available on public app stores due to business confidentiality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contact
+For any queries or more information, please reach out to our team.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![CoreMetal Attendance](path_to_your_screenshot_1.png)
+![CoreMetal Attendance](path_to_your_screenshot_2.png)
+
+### Note
+Due to business confidentiality, the CoreMetal Attendance app is not publicly available on the App Store.
